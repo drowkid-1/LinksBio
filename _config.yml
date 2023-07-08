@@ -19,7 +19,7 @@ links:
     # Pag
   - Name: Página Web
     URL: 'https://drowkid.bswc.net'
-    Icon-Class: fab fa-rocket-launch
+    Icon-Class: fas fa-badge-check
     Color: '#ffffff'
     Text_Color: '#000000'
 
