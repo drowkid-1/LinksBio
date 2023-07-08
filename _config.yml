@@ -33,14 +33,13 @@ links:
     # CUSTOM LINK
   - Name: Apps by DrowKid
     URL: https://drowapps.bswc.net
-    Icon-Class: fab fa-github
+    Icon-Class: fa-brands fa-react
     Color: '#05CC46'
     Text_Color: '#ffffff'
 
      # THREADS.NET
-  - Name: Threads
-    URL: https://threads.net/
-    Username: drowkid01
+  - Name: Plantillas Web
+    URL: https://work.bswc.net
     Color: '#000000'
     Icon-Class: fa-solid fa-at
     Text_Color: '#ffffff'
