@@ -19,7 +19,7 @@ links:
     # Pag
   - Name: Página Web
     URL: 'https://drowkid.bswc.net'
-    Icon-Class: fas fa-rocket-launch
+    Icon-Class: fab fa-rocket-launch
     Color: '#ffffff'
     Text_Color: '#000000'
 
@@ -40,7 +40,7 @@ links:
     # CUSTOM LINK
   - Name: Apps by DrowKid
     URL: https://drowapps.bswc.net
-    Icon-Class: fas fa-badge-check
+    Icon-Class: fab fa-github
     Color: '#05CC46'
     Text_Color: '#ffffff'
 
