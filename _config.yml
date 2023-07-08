@@ -29,6 +29,12 @@ links:
     Username: lalodk_01
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
+ 
+  - Name: Pagina oficial
+    URL: https://drowkid.bswc.net
+    Icon-Class: fas fa-link
+    Color: '#d94869'
+    Text_Color: '#ffffff'
 
     # TWITTER
   - Name: Twitter
