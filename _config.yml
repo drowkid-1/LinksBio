@@ -67,10 +67,9 @@ links:
     Text_Color: '#ffffff'
 
     # VIMEO
-  - Name: Vimeo
-    URL: 'https://vimeo.com'
-    Username: 
-    Icon-Class: fab fa-vimeo-v
+  - Name: Links-theme
+    URL: 'https://drowlinks.bswc.net/' 
+    Icon-Class: fa-brands fa-react
     Color: '#1ab7ea'
     Text_Color: '#ffffff'
 
